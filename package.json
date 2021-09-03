@@ -16,8 +16,10 @@
     "@types/jquery": "^3.3.31",
     "@types/materialize-css": "^1.0.6",
     "@types/minimist": "^1.2.0",
-    "canvas": "2.5.0",
+    "cairo": "0.1.0-alpha.3",
+    "canvas": "^2.8.0",
     "minimist": "^1.2.3",
-    "svg2img": "^0.6.1"
+    "svg2img": "^0.9.3",
+    "xmldom": "^0.6.0"
   }
 }
